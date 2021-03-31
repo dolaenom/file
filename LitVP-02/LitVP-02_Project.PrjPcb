@@ -73,6 +73,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGYSAREJ
 
+[Document3]
+DocumentPath=LitVP-02.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DCPAYKKS
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ZTHGS-R2_Project\Design Rule Check - LitVP-02.html
 DItemRevisionGUID=
@@ -1052,10 +1069,16 @@ NetClassManualEnabled=0
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=PESD5V0L1BA
+ComponentSymbolReference0=PESD5V0L1BA
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1069,6 +1092,24 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ParameterName4=Value
+ParameterUpdate4=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=DIODE-0402
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SMBJ40CA(TVS)
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
