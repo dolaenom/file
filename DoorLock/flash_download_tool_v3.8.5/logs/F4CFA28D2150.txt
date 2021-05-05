@@ -1,0 +1,848 @@
+set STOP FLG: True CONNECT BAUD: 115200
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c770cL
+mac h: 0xeff4cf
+crc_cal: 239
+crc_read: 239
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (659.0 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.5 seconds (677.7 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28cc684L
+mac h: 0x67f4cf
+crc_cal: 103
+crc_read: 103
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (587.8 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (668.0 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28ca7b8L
+mac h: 0xe4f4cf
+crc_cal: 228
+crc_read: 228
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (663.4 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (679.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28ce0fcL
+mac h: 0x36f4cf
+crc_cal: 54
+crc_read: 54
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (662.6 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (679.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d9be8L
+mac h: 0xf4f4cf
+crc_cal: 244
+crc_read: 244
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (679.1 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (662.6 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (679.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28ca304L
+mac h: 0x4ef4cf
+crc_cal: 78
+crc_read: 78
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (567.4 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (679.1 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (661.7 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (679.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c6318L
+mac h: 0xc4f4cf
+crc_cal: 196
+crc_read: 196
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (662.5 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (681.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d1f64L
+mac h: 0xcff4cf
+crc_cal: 207
+crc_read: 207
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (664.4 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.9 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+set STOP FLG: Truecom closed
+set state: ESP_DL_STOP
+set STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d1f64L
+mac h: 0xcff4cf
+crc_cal: 207
+crc_read: 207
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (549.6 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 13.0 seconds (606.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 24.2 seconds (601.5 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28dbd04L
+mac h: 0xd5f4cf
+crc_cal: 213
+crc_read: 213
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (548.4 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.0 seconds (654.7 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.5 seconds (675.7 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d9e74L
+mac h: 0xb9f4cf
+crc_cal: 185
+crc_read: 185
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (665.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d9b88L
+mac h: 0x91f4cf
+crc_cal: 145
+crc_read: 145
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (587.8 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (668.0 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c72e0L
+mac h: 0x5af4cf
+crc_cal: 90
+crc_read: 90
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (667.1 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c9b44L
+mac h: 0x53f4cf
+crc_cal: 83
+crc_read: 83
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.0 seconds (657.3 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.6 seconds (672.2 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c98fcL
+mac h: 0xf6f4cf
+crc_cal: 246
+crc_read: 246
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (659.9 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (679.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c829cL
+mac h: 0x98f4cf
+crc_cal: 152
+crc_read: 152
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (586.5 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (668.8 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c96ccL
+mac h: 0x94f4cf
+crc_cal: 148
+crc_read: 148
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (514.0 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.4 seconds (633.6 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.8 seconds (668.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d9618L
+mac h: 0x9f4cf
+crc_cal: 9
+crc_read: 9
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (658.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.5 seconds (675.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c7344L
+mac h: 0x50f4cf
+crc_cal: 80
+crc_read: 80
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (660.8 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (680.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c9ea0L
+mac h: 0x24f4cf
+crc_cal: 36
+crc_read: 36
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (660.8 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (681.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c7f40L
+mac h: 0x7cf4cf
+crc_cal: 124
+crc_read: 124
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (567.4 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (666.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (681.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c7344L
+mac h: 0x50f4cf
+crc_cal: 80
+crc_read: 80
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 13.3 seconds (592.3 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 24.7 seconds (589.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28caf98L
+mac h: 0xb1f4cf
+crc_cal: 177
+crc_read: 177
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (587.8 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (667.1 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (681.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28cac38L
+mac h: 0x4bf4cf
+crc_cal: 75
+crc_read: 75
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (587.8 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (666.1 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28da4d4L
+mac h: 0xdcf4cf
+crc_cal: 220
+crc_read: 220
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (667.0 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c8ff0L
+mac h: 0xd7f4cf
+crc_cal: 215
+crc_read: 215
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (661.6 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.5 seconds (677.2 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d2204L
+mac h: 0xef4cf
+crc_cal: 14
+crc_read: 14
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (529.6 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.0 seconds (654.7 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.5 seconds (676.7 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c8654L
+mac h: 0xabf4cf
+crc_cal: 171
+crc_read: 171
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (658.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.4 seconds (680.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28cac38L
+mac h: 0x4bf4cf
+crc_cal: 75
+crc_read: 75
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (586.5 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.9 seconds (609.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 23.9 seconds (608.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d2204L
+mac h: 0xef4cf
+crc_cal: 14
+crc_read: 14
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (530.7 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (679.1 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 13.5 seconds (581.1 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 25.0 seconds (581.2 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28cac38L
+mac h: 0x4bf4cf
+crc_cal: 75
+crc_read: 75
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.4 seconds (587.8 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.8 seconds (612.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 23.9 seconds (607.5 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28cb144L
+mac h: 0x75f4cf
+crc_cal: 117
+crc_read: 117
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (566.2 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (668.9 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28cb1b4L
+mac h: 0x1f4cf
+crc_cal: 1
+crc_read: 1
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (567.4 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.8 seconds (665.2 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28dcf48L
+mac h: 0x17f4cf
+crc_cal: 23
+crc_read: 23
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (567.4 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (682.7 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (662.6 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.8 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28c8e44L
+mac h: 0x40f4cf
+crc_cal: 64
+crc_read: 64
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (547.3 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 11.9 seconds (663.5 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.3 seconds (682.3 kbit/s)...Hash of data verified.
+Leaving...com closed
+set STOP FLG: Trueset STOP FLG: True CONNECT BAUD: 115200
+com port closedset state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa28d2150L
+mac h: 0xe1f4cf
+crc_cal: 225
+crc_read: 225
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x001740c8manufacturer_id: 0xc8
+device_id: 0x4017
+SET FLASH PARAMS
+Wrote 32768 bytes at 0x00001000 in 0.5 seconds (529.6 kbit/s)...Hash of data verified.Wrote 16384 bytes at 0x00008000 in 0.2 seconds (686.2 kbit/s)...Hash of data verified.Wrote 983040 bytes at 0x00010000 in 12.1 seconds (648.6 kbit/s)...Hash of data verified.Wrote 1818624 bytes at 0x00237000 in 21.5 seconds (676.8 kbit/s)...Hash of data verified.
+Leaving...com closed

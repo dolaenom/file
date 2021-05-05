@@ -107,14 +107,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ZTHGS-R2_Project\Design Rule Check - LitVP-02.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ZTHGS-R2_Project\Design Rule Check - QGW820-V2.html
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=*.*
 IncludeSubFolders=1

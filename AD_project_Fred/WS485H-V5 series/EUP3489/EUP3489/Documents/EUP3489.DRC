@@ -1,0 +1,27 @@
+Protel Design System Design Rule Check
+PCB File : Documents\EUP3453.PCB
+Date     : 13-Nov-2012
+Time     : 14:32:50
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=2.54mm) (On the board )
+   Violation         Pad Free-1(55.753mm,17.272mm)  MultiLayer  Actual Hole Size = 2.794mm
+   Violation         Pad Free-1(12.573mm,-16.51mm)  MultiLayer  Actual Hole Size = 2.794mm
+   Violation         Pad Free-1(55.753mm,-16.51mm)  MultiLayer  Actual Hole Size = 2.794mm
+   Violation         Pad Free-1(12.573mm,17.272mm)  MultiLayer  Actual Hole Size = 2.794mm
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=0.0254mm) (Max=2.54mm) (Prefered=0.508mm) (On the board )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed) (On the board ),(On the board )
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (On the board ) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (On the board ),(On the board )
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:00
